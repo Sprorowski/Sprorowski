@@ -2,19 +2,24 @@
 
 **Full-stack Developer** • **PHP & npm Package Author**
 ### 🧰 Tech Stack
+
 <table>
-<tr style="border: none">
-<td valign="top">
+<tr style="border: none;">
+<td valign="top" style="border: none;">
+
 **Frontend:** React · Angular · Vue · Remix · TypeScript  
 **Backend:** PHP · Laravel · Node.js · Express · Go · Prisma  
 **DevOps & Tools:** Docker · Docker Init · GitHub Actions · REST & GraphQL APIs · Composer · npm  
 
 </td>
-<td valign="top" style="border: none" align="right">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sprorowski&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+<td valign="top" align="right" style="border: none;">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sprorowski&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+
 </td>
 </tr>
 </table>
+
 
 ---
 
