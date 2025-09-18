@@ -1,13 +1,5 @@
 
 
-### ⚡ GitHub Stats
-
-![Snake animation](https://github.com/Sprorowski/Sprorowski/blob/output/github-contribution-grid-snake.svg)  
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sprorowski&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
 <img align="right" height="150" src="https://i.postimg.cc/zfCzHCpj/03a73965-881e-493c-a630-a0dfaea9325e.png"  />
 
 ###
@@ -65,5 +57,17 @@
 </div>
 
 ###
+
+
+### ⚡ GitHub Stats
+
+![Snake animation](https://github.com/Sprorowski/Sprorowski/blob/output/github-contribution-grid-snake.svg)  
+
+### 📌 Pinned Projects
+
+- **[clean-architecture-laravel](https://github.com/Sprorowski/clean-architecture-laravel)** — Clean Architecture template for Laravel projects. :contentReference[oaicite:1]{index=1}  
+- **[to-do-laravel](https://github.com/Sprorowski/to-do-laravel)** — A simple To-do app in Laravel. :contentReference[oaicite:2]{index=2}  
+
+---
 
 
