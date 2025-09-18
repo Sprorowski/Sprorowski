@@ -1,5 +1,13 @@
 
 
+### ⚡ GitHub Stats
+
+![Snake animation](https://github.com/Sprorowski/Sprorowski/blob/output/github-contribution-grid-snake.svg)  
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sprorowski&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
 <img align="right" height="150" src="https://i.postimg.cc/zfCzHCpj/03a73965-881e-493c-a630-a0dfaea9325e.png"  />
 
 ###
