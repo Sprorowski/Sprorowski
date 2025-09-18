@@ -1,4 +1,26 @@
+# 👋 Hi, I’m Guilherme Sprorowski ([@Sprorowski](https://github.com/Sprorowski))
 
+**Full-stack Developer** • **PHP & npm Package Author**
+### 🧰 Tech Stack
+<table>
+<tr>
+<td valign="top">
+
+**Frontend:** React · Angular · Vue · Remix · TypeScript  
+**Backend:** PHP · Laravel · Node.js · Express · Go · Prisma  
+**DevOps & Tools:** Docker · Docker Init · GitHub Actions · REST & GraphQL APIs · Composer · npm  
+
+</td>
+<td valign="top" align="right">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sprorowski&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+
+</td>
+</tr>
+</table>
+
+---
+###
 
 <img align="right" height="150" src="https://i.postimg.cc/zfCzHCpj/03a73965-881e-493c-a630-a0dfaea9325e.png"  />
 
@@ -48,6 +70,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
 </div>
 
+
 ###
 
 <div align="left">
@@ -58,7 +81,8 @@
 
 ###
 
-
+###
+---
 ### ⚡ GitHub Stats
 
 <picture>
