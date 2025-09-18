@@ -83,7 +83,7 @@
 
 ### 📌 Pinned Projects
 
-- **[clean-architecture-laravel](https://github.com/Sprorowski/clean-architecture-laravel)** — Clean Architecture template for Laravel projects. :contentReference[oaicite:1]{index=1}  
-- **[to-do-laravel](https://github.com/Sprorowski/to-do-laravel)** — A simple To-do app in Laravel. :contentReference[oaicite:2]{index=2}  
+- **[clean-architecture-laravel](https://github.com/Sprorowski/clean-architecture-laravel)** — Clean Architecture template for Laravel projects. 
+- **[to-do-laravel](https://github.com/Sprorowski/to-do-laravel)** — A simple To-do app in Laravel.  
 
 
