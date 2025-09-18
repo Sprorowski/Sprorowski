@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write  
+  contents: write
 
 jobs:
   build:
@@ -19,14 +19,14 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: Sprorowski
-          outputs: dist/snake.svg
-          color_snake: "#00FF00"
-          color_dots: "#444444" "#888888" "#AAAAAA" "#FFFFFF"
+          outputs: dist/snake-dark.svg
+          color_snake: "#FF6B6B"
+          color_dots: '#1e1e1e #2d2d2d #444444 #c0c0c0'
 
       - name: Push snake to output branch
         uses: EndBug/add-and-commit@v9
         with:
           author_name: github-actions
           author_email: github-actions@github.com
-          message: "Generated snake animation"
-          add: "dist/snake.svg"
+          message: "Generated dark snake animation"
+          add: "dist/snake-dark.svg"
