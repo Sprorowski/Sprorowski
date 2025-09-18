@@ -19,7 +19,9 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: Sprorowski
-          outputs: dist/snake.svg
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
 
       - name: Push snake to output branch
         uses: EndBug/add-and-commit@v9
@@ -27,4 +29,4 @@ jobs:
           author_name: github-actions
           author_email: github-actions@github.com
           message: "Generated snake animation"
-          add: "dist/snake.svg"
+          add: "."
