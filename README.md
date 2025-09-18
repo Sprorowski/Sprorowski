@@ -72,9 +72,7 @@
 
 ###
 
-###
----
-### ⚡ GitHub Stats
+### 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Sprorowski/Sprorowski/blob/main/dist/snake-dark.svg" />
