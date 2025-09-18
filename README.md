@@ -61,7 +61,7 @@
 
 ### ⚡ GitHub Stats
 
-![Snake animation](https://github.com/Sprorowski/Sprorowski/blob/main/dist/snake.svg)  
+![Snake animation](https://github.com/Sprorowski/Sprorowski/blob/main/dist/snake-dark.svg)  
 
 ### 📌 Pinned Projects
 
