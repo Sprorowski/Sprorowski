@@ -1,24 +1,15 @@
 # 👋 Hi, I’m Guilherme Sprorowski ([@Sprorowski](https://github.com/Sprorowski))
 
 **Full-stack Developer** • **PHP & npm Package Author**
-### 🧰 Tech Stack
+###
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Sprorowski&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
-<table>
-<tr style="border: none;">
-<td valign="top" style="border: none;">
-
-**Frontend:** React · Angular · Vue · Remix · TypeScript  
-**Backend:** PHP · Laravel · Node.js · Express · Go · Prisma  
-**DevOps & Tools:** Docker · Docker Init · GitHub Actions · REST & GraphQL APIs · Composer · npm  
-
-</td>
-<td valign="top" align="right" style="border: none;">
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sprorowski&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-
-</td>
-</tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sprorowski&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sprorowski&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=merko&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
 
 
 ---
